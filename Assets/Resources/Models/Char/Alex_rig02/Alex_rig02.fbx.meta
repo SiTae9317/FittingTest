@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: d95fbab4ea6a87340b99774dcc558647
+timeCreated: 1542183795
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Alex.obj
+    100002: Alex.obj_MeshPart0
+    100004: Alex.obj_MeshPart1
+    100006: //RootNode
+    100008: Head
+    100010: HeadTop_End
+    100012: Hips
+    100014: LeftArm
+    100016: LeftFoot
+    100018: LeftForeArm
+    100020: LeftHand
+    100022: LeftHandEnd
+    100024: LeftLeg
+    100026: LeftShoulder
+    100028: LeftToe_End
+    100030: LeftToeBase
+    100032: LeftUpLeg
+    100034: Neck
+    100036: RightArm
+    100038: RightFoot
+    100040: RightForeArm
+    100042: RightHand
+    100044: RightHandEnd
+    100046: RightLeg
+    100048: RightShoulder
+    100050: RightToe_End
+    100052: RightToeBase
+    100054: RightUpLeg
+    100056: Spine
+    100058: Spine1
+    400000: Alex.obj
+    400002: Alex.obj_MeshPart0
+    400004: Alex.obj_MeshPart1
+    400006: //RootNode
+    400008: Head
+    400010: HeadTop_End
+    400012: Hips
+    400014: LeftArm
+    400016: LeftFoot
+    400018: LeftForeArm
+    400020: LeftHand
+    400022: LeftHandEnd
+    400024: LeftLeg
+    400026: LeftShoulder
+    400028: LeftToe_End
+    400030: LeftToeBase
+    400032: LeftUpLeg
+    400034: Neck
+    400036: RightArm
+    400038: RightFoot
+    400040: RightForeArm
+    400042: RightHand
+    400044: RightHandEnd
+    400046: RightLeg
+    400048: RightShoulder
+    400050: RightToe_End
+    400052: RightToeBase
+    400054: RightUpLeg
+    400056: Spine
+    400058: Spine1
+    4300000: Alex.obj_MeshPart0
+    4300002: Alex.obj_MeshPart1
+    9500000: //RootNode
+    13700000: Alex.obj_MeshPart0
+    13700002: Alex.obj_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
