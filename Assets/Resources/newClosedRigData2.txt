@@ -1,0 +1,61 @@
+Pelvis L_UpLeg R_UpLeg Spine1
+L_Hip Pelvis L_UpLeg
+R_Hip Pelvis R_UpLeg
+Spine1 Spine2 Pelvis
+Spine2 Spine3 Spine1
+Spine3 Spine4 Spine2
+Spine4 Neck Spine3 L_Collar R_Collar
+L_UpLeg L_UpLeg L_Knee
+R_UpLeg R_UpLeg R_Knee
+L_Knee L_UpLeg L_LowLeg
+L_LowLeg L_Knee L_Ankle
+L_Ankle L_LowLeg L_Foot
+L_Foot L_Foot L_Ankle
+R_Knee R_UpLeg R_LowLeg
+R_LowLeg R_Knee R_Ankle
+R_Ankle R_LowLeg R_Foot
+R_Foot R_Foot R_Ankle
+L_Collar L_Collar L_Shoulder L_UpArm
+Neck Head Spine4
+Head Head Neck
+R_Collar R_Collar R_Shoulder R_UpArm
+L_Shoulder L_Collar L_UpArm
+L_UpArm L_Shoulder L_Elbow L_Collar
+L_Elbow L_UpArm L_LowArm
+L_LowArm L_Elbow L_Wrist
+L_Wrist L_Wrist L_LowArm
+R_Shoulder R_Collar R_UpArm
+R_UpArm R_Shoulder R_Elbow R_Collar
+R_Elbow R_UpArm R_LowArm
+R_LowArm R_Elbow R_Wrist
+R_Wrist R_Wrist R_LowArm
+lindex0 lindex0 lindex1
+lindex1 lindex0 lindex2
+lindex2 lindex2 lindex1
+lmiddle0 lmiddle0 lmiddle1
+lmiddle1 lmiddle0 lmiddle2
+lmiddle2 lmiddle2 lmiddle1
+lpinky0 lpinky0 lpinky1
+lpinky1 lpinky0 lpinky2
+lpinky2 lpinky2 lpinky1
+lring0 lring0 lring1
+lring1 lring0 lring2
+lring2 lring2 lring1
+lthumb0 lthumb0 lthumb1
+lthumb1 lthumb0 lthumb2
+lthumb2 lthumb2 lthumb1
+rindex0 rindex0 rindex1
+rindex1 rindex0 rindex2
+rindex2 rindex2 rindex1
+rmiddle0 rmiddle0 rmiddle1
+rmiddle1 rmiddle0 rmiddle2
+rmiddle2 rmiddle2 rmiddle1
+rpinky0 rpinky0 rpinky1
+rpinky1 rpinky0 rpinky2
+rpinky2 rpinky2 rpinky1
+rring0 rring0 rring1
+rring1 rring0 rring2
+rring2 rring2 rring1
+rthumb0 rthumb0 rthumb1
+rthumb1 rthumb0 rthumb2
+rthumb2 rthumb2 rthumb1
